@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goitreact-hw1-components/static/css/main.2e6fa5bd.chunk.css",
+    "main.js": "/goitreact-hw1-components/static/js/main.3e9227c6.chunk.js",
+    "main.js.map": "/goitreact-hw1-components/static/js/main.3e9227c6.chunk.js.map",
+    "runtime-main.js": "/goitreact-hw1-components/static/js/runtime-main.b0efb25d.js",
+    "runtime-main.js.map": "/goitreact-hw1-components/static/js/runtime-main.b0efb25d.js.map",
+    "static/js/2.a018f589.chunk.js": "/goitreact-hw1-components/static/js/2.a018f589.chunk.js",
+    "static/js/2.a018f589.chunk.js.map": "/goitreact-hw1-components/static/js/2.a018f589.chunk.js.map",
+    "index.html": "/goitreact-hw1-components/index.html",
+    "precache-manifest.90cb8f7318887675bf3dfda0a41b3eff.js": "/goitreact-hw1-components/precache-manifest.90cb8f7318887675bf3dfda0a41b3eff.js",
+    "service-worker.js": "/goitreact-hw1-components/service-worker.js",
+    "static/css/main.2e6fa5bd.chunk.css.map": "/goitreact-hw1-components/static/css/main.2e6fa5bd.chunk.css.map",
+    "static/js/2.a018f589.chunk.js.LICENSE.txt": "/goitreact-hw1-components/static/js/2.a018f589.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/goitreact-hw1-components/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0efb25d.js",
+    "static/js/2.a018f589.chunk.js",
+    "static/css/main.2e6fa5bd.chunk.css",
+    "static/js/main.3e9227c6.chunk.js"
+  ]
+}
